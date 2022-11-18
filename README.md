@@ -1,4 +1,6 @@
-- [![@ntshangase's Holopin board](https://holopin.me/ntshangase)](https://holopin.io/@ntshangase)
+  [![@ntshangase's Holopin board](https://holopin.me/ntshangase)](https://holopin.io/@ntshangase)
+
+
 - 👋 Hi, I’m @Ntshangase
 - 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...
