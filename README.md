@@ -4,8 +4,9 @@
 
 - 👋 Hi, I’m @Ntshangase
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ...Front-End  
-- 💞️ I’m looking to collaborate on ...Front End project In any programming languages
+- 🌱 I’m currently learning ...Software Enginnering
+- 📞 +27(0) 82 058 2363
+- 📬 simphiwe323i@gmail.com
 
 <!---
 Ntshangase/Ntshangase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
