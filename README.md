@@ -42,9 +42,9 @@ I'm based in **Durban, South Africa**
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql" />
   </a>
   <a href="https://firebase.google.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow"
@@ -53,7 +53,23 @@ I'm based in **Durban, South Africa**
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
-  </a> 
+  </a>
+ </p>
+  <p align="center">
+    <a href="https://www.figma.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+        alt="figma"/> 
+    </a>
+    <a href="https://www.angular.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+        alt="angular"/> 
+    </a>
+    <a href="https://www.expo.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"
+        alt="expo"/> 
+    </a>
+  </p>
+
 <!---
 Ntshangase/Ntshangase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
