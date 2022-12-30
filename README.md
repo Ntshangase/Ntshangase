@@ -2,11 +2,15 @@
 
 
 
-- 👋 Hi, I’m @Ntshangase
-- 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ...Software Enginnering
-- 📞 +27(0) 82 058 2363
-- 📬 simphiwe323i@gmail.com
+
+<div align="center">
+<h2> Hi, I'm Ntshangase 👋</h2>
+
+I'm currently self teaching to be a software engineer. I have have gained a lot of know how and I'm looking to put that into good use. Currently in my ready for a junior role phase of learning.
+
+I'm based in **Durban, South Africa**
+
+</div>
 
 <div align="center">
 
