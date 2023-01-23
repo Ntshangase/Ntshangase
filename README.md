@@ -9,6 +9,8 @@
 I'm currently self teaching to be a software engineer. I have have gained a lot of know how and I'm looking to put that into good use. Currently in my ready for a junior role phase of learning.
 
 I'm based in **Durban, South Africa**
+  
+  **For my best works check out my star⭐repositories...**
 
 </div>
 
