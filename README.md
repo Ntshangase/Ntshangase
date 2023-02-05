@@ -10,7 +10,7 @@ I'm currently self teaching to be a software engineer. I have have gained a lot 
 
 I'm based in **Durban, South Africa**
   
-  **For my best works check out my star⭐repositories...**
+  **For my best works check out my Stars⭐repositories...**
 
 </div>
 
