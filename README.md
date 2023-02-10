@@ -6,7 +6,7 @@
 <div align="center">
 <h2> Hi, I'm Ntshangase 👋</h2>
 
-I'm currently self teaching to be a software engineer. I have have gained a lot of know how and I'm looking to put that into good use. Currently in my ready for a junior role phase of learning.
+The only profile that matters.
 
 I'm based in **Durban, South Africa**
   
