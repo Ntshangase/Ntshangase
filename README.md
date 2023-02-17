@@ -76,6 +76,7 @@ I'm based in **Durban, South Africa**
   <br />
   
  [![ntshangase GitHub stats](https://github-readme-stats.vercel.app/api?username=ntshangase&show_icons=true&theme=radical)](https://github.com/mtshangase/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ntshangase&theme=radical&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 Ntshangase/Ntshangase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
