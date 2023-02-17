@@ -71,6 +71,11 @@ I'm based in **Durban, South Africa**
         alt="expo"/> 
     </a>
   </p>
+  
+  ## My GitHub Stats
+  <br />
+  
+ [![ntshangase GitHub stats](https://github-readme-stats.vercel.app/api?username=ntshangase&show_icons=true&theme=radical)](https://github.com/mtshangase/github-readme-stats)
 
 <!---
 Ntshangase/Ntshangase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
