@@ -8,9 +8,8 @@
 
 The only profile that matters.
 
-I'm based in **Durban, South Africa**
   
-  **For my best works check out my Stars⭐repositories...**
+  **For my best works check out my Pinned📌 repositories...**
 
 </div>
 
