@@ -71,12 +71,18 @@ The only profile that matters.
     </a>
   </p>
   
-  ## My GitHub Stats
-  <br />
+  ## GitHub stats
   
- [![ntshangase GitHub stats](https://github-readme-stats.vercel.app/api?username=ntshangase&show_icons=true&theme=radical)](https://github.com/mtshangase/github-readme-stats)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ntshangase&theme=radical&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <table align="center">
+  <tr>
+    <td>
+      <img height=210px src="https://github-readme-stats.vercel.app/api?username=ntshangase&show_icons=true&theme=radical" />
+    </td>
+    <td>
+        <img height=210px src="https://streak-stats.demolab.com?user=ntshangase&theme=radical&border_radius=4.8&date_format=j%20M%5B%20Y%5D"/>
+    </td>
+  </tr>
+</table>
 
 <!---
 Ntshangase/Ntshangase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
