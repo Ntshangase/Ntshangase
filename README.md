@@ -76,10 +76,10 @@ The only profile that matters.
   <table align="center">
   <tr>
     <td>
-      <img height=210px src="https://github-readme-stats.vercel.app/api?username=ntshangase&show_icons=true&theme=radical" />
+      <img height=280px src="https://github-readme-stats.vercel.app/api?username=ntshangase&show_icons=true&theme=radical" />
     </td>
     <td>
-        <img height=210px src="https://streak-stats.demolab.com?user=ntshangase&theme=radical&border_radius=4.8&date_format=j%20M%5B%20Y%5D"/>
+        <img height=280px src="https://streak-stats.demolab.com?user=ntshangase&theme=radical&border_radius=4.8&date_format=j%20M%5B%20Y%5D"/>
     </td>
   </tr>
 </table>
