@@ -10,6 +10,8 @@ The only profile that matters.
 
   
   **For my best works check out my Pinned📌 repositories...**
+  
+  **email: 5670375682@bootcamp.wethinkcode.co.za**
 
 </div>
 
