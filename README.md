@@ -6,8 +6,6 @@
 <div align="center">
 <h2> Hi, I'm Ntshangase 👋</h2>
 
-The only profile that matters.
-
   
   **For my best works check out my Pinned📌 repositories...**
   
